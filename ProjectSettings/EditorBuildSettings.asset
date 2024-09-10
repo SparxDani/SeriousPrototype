@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Area.unity
     guid: fcc4dae30a0a5794a9dae1bc7421bf64
+  - enabled: 1
+    path: Assets/Scenes/Zona de Tiro.unity
+    guid: b17b525c40689954dbec5c1ee34268cd
   m_configObjects: {}

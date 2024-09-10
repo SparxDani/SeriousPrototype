@@ -17,4 +17,4 @@ MonoBehaviour:
     y recuerda siempre controlar tu respiraci\xF3n antes de disparar. El objetivo
     es lograr la mayor precisi\xF3n posible, as\xED que realiza pr\xE1cticas regulares
     y analiza cada tiro para mejorar continuamente.\""
-  sceneToLoad: Area
+  sceneToLoad: Zona de Tiro
