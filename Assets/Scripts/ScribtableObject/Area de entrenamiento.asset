@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6e099618ad39a24eb57b2d415301034, type: 3}
+  m_Name: Area de entrenamiento
+  m_EditorClassIdentifier: 
+  dialogueText: " \"En el \xE1rea de tiro, aseg\xFArate de mantener una postura firme
+    y estable. Ajusta el alza y el punto de mira seg\xFAn las condiciones del objetivo,
+    y recuerda siempre controlar tu respiraci\xF3n antes de disparar. El objetivo
+    es lograr la mayor precisi\xF3n posible, as\xED que realiza pr\xE1cticas regulares
+    y analiza cada tiro para mejorar continuamente.\""
+  sceneToLoad: Area
